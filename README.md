@@ -24,4 +24,4 @@ Previously, I was a software intern at the Assemblée nationale (procurement dep
 ## Contact
 
 - Email: lorenzo.lavalette@gmail.com
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/lorenzo-lavalette-181423251/?isSelfProfile=true
